@@ -8,6 +8,9 @@ theme:
   features:
     - navigation.tabs
     - content.code.copy
+  font:
+    text: Noto Sans JP
+    code: JetBrains Mono
   palette:
     - scheme: default
       primary : blue
