@@ -1,3 +1,4 @@
 site
 .fleet
 article
+!site/_redirects
